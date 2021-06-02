@@ -1,0 +1,136 @@
+{
+	"slotTrackerGuid": "<APPTID>",
+	"language": "en-US",
+	"patient": {
+		"firstname": "<FIRSTNAME>",
+		"lastname": "<LASTNAME>",
+		"middleName": null,
+		"DOB": "01/03/1950",
+		"mothersfirstname": null,
+		"mothersmaidenname": null,
+		"address": "2322 gabaana",
+		"address2": "none",
+		"addrcity": " deldku",
+		"addrstate": "ST",
+		"addrzip": "12345",
+		"countyid": "41",
+		"usaResidence": "Y",
+		"emailaddress": "failzsafe434343332123@gmail.com",
+		"phone": "64712345678",
+		"smsOptIn": "Y",
+		"insurance": {
+			"receivedprivacypolicyconsent": "Y",
+			"patientbillingconsent": "Y",
+			"patientnoinsuranceconsent": null,
+			"primaryinsurancetype": "CommercialInsurance",
+			"primaryinsname": "<name>",
+			"primaryinsid": "<name>",
+			"primaryinsgroupid": "<name>",
+			"primarymedicaidcin": null,
+			"primarymedicaidid": null,
+			"primaryinsaddress": null,
+			"primaryinsaddrcity": null,
+			"primaryinsaddrstate": null,
+			"primaryinsaddrzip": null,
+			"primaryinsphone": null,
+			"primaryinssubscriberdateofbirth": "01/03/1950",
+			"primaryinssubscriberfirstname": "Ras",
+			"primaryinssubscribermiddleinitial": "",
+			"primaryinssubscriberlastname": "Cas",
+			"primaryinssubscriberrelationtopatient": "Self",
+			"secondaryinsurancetype": "None",
+			"secondaryinsname": null,
+			"secondaryinsid": null,
+			"secondaryinsgroupid": null,
+			"secondarymedicaidcin": null,
+			"secondarymedicaidid": null,
+			"secondaryinsaddress": null,
+			"secondaryinsaddrcity": null,
+			"secondaryinsaddrstate": null,
+			"secondaryinsaddrzip": null,
+			"secondaryinsphone": null,
+			"secondaryinssubscriberdateofbirth": null,
+			"secondaryinssubscriberfirstname": null,
+			"secondaryinssubscribermiddleinitial": null,
+			"secondaryinssubscriberlastname": null,
+			"secondaryinssubscriberrelationtopatient": null
+		},
+		"demographics": {
+			"ethnicity": "N",
+			"gender": "M",
+			"race": "W"
+		},
+		"locationNeeds": {
+			"needhandicapaccess": "N",
+			"needlanguageassistance": "N",
+			"transportation": "RIDESHAREUBERLYFTTAXI",
+			"handicapaccessdesc": ""
+		},
+		"emergencyContact": {
+			"firstname": null,
+			"lastname": null,
+			"middleName": null,
+			"phone": null,
+			"relationship": null
+		},
+		"primaryCareDoctor": {
+			"addrcity": null,
+			"address": null,
+			"addrstate": null,
+			"addrzip": null,
+			"firstname": null,
+			"lastname": null,
+			"phone": null
+		}
+	},
+	"preScreeningQandA": [
+		{
+			"formQuestionId": 443,
+			"answer": "Y"
+		},
+		{
+			"formQuestionId": 432,
+			"answer": "N"
+		},
+		{
+			"formQuestionId": 437,
+			"answer": "N"
+		},
+		{
+			"formQuestionId": 434,
+			"answer": "N"
+		},
+		{
+			"formQuestionId": 435,
+			"answer": "N"
+		},
+		{
+			"formQuestionId": 433,
+			"answer": "N"
+		},
+		{
+			"formQuestionId": 438,
+			"answer": "N"
+		},
+		{
+			"formQuestionId": 439,
+			"answer": "N"
+		},
+		{
+			"formQuestionId": 440,
+			"answer": "N"
+		},
+		{
+			"formQuestionId": 441,
+			"answer": "N"
+		},
+		{
+			"formQuestionId": 442,
+			"answer": "N"
+		},
+		{
+			"formQuestionId": 436,
+			"answer": "N"
+		}
+	]
+}
