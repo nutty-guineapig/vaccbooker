@@ -1,5 +1,5 @@
 # vaccbooker
-vacc booker poc bot 
+quick scrappy vacc booker poc bot 
 
 pressing f5 hurts fingers. it was hard to book an appointment manually. vacc booker did it for me instead!
 
